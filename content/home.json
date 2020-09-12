@@ -3,13 +3,15 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-namorados-ok.png"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
-      "slides": []
+      "slides": [
+        {
+          "start": "2020-09-12T22:47:36.722Z",
+          "end": "2020-09-12T22:47:36.751Z",
+          "img": "/img/uploads/banner-namorados.png"
+        }
+      ]
     },
     {
       "type": "info-bar",
