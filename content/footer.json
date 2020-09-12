@@ -5,11 +5,11 @@
   },
   "links_1": {
     "list_pages": true,
-    "title": "Páginas",
+    "title": "O Estúdio Criativo",
     "list": []
   },
   "links_2": {
-    "list_categories": true,
+    "list_categories": false,
     "title": "Categorias",
     "list": []
   },
@@ -43,5 +43,5 @@
     "amex": true,
     "itau": true
   },
-  "credits": ""
+  "credits": "Copyright © Katia Simões – Estúdio Criativo – CNPJ: 15.326.261/0001-73 © Todos direitos reservados"
 }
