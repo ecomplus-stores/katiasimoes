@@ -1,13 +1,14 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion",
+    "text": "Pague em 3x sem juros ou aproveite o desconto de 10% fazendo um depósito bancário",
+    "link": "",
     "color": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Fale Conosco"
+        "title": "Fale Conosco",
+        "link": "https://katiasimoes.netlify.app/pages/contato"
       }
     ],
     "phone_wpp": true,
