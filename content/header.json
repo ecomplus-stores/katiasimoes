@@ -2,7 +2,8 @@
   "marketing_stripe": {
     "text": "Pague em 3x sem juros ou aproveite o desconto de 10% fazendo um depósito bancário",
     "link": "",
-    "color": "#ffffff"
+    "color": "#ffffff",
+    "background": "#d690a9"
   },
   "contacts_stripe": {
     "pages": [
