@@ -1,5 +1,5 @@
 {
-  "css": ".header__nav {\n    text-align: initial;\n    font-size: var(--font-size-base); \n    line-height: var(--line-height-bas);\n    line-height: var(--line-height-lg);\n    margin-top: 30px;\n    margin-bottom: 10px;\n}",
+  "css": "@media (min-width: 992px)\n.col-lg-3 {\n    flex: 0 0 25%;\n    max-width: 25%;\n}\n\n.header__nav {\n    text-align: initial;\n    font-size: var(--font-size-base); \n    line-height: var(--line-height-bas);\n    line-height: var(--line-height-lg);\n    margin-top: 30px;\n    margin-bottom: 10px;\n}",
   "html_head": "",
   "html_body": ""
 }
