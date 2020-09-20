@@ -1,7 +1,7 @@
 {
   "domain": "katiasimoes.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#d690a9",
+  "primary_color": "#3b9475",
   "theme": {
     "bootswatch": "minty",
     "custom": "_"
@@ -15,7 +15,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/camaleoa-icon.png",
   "country_code": "BR",
-  "secondary_color": "#3b9475",
+  "secondary_color": "#d690a9",
   "icon": "/img/uploads/camaleoa-icon.png",
   "store_id": 1159,
   "description": "Desenhos digitais com leveza e carinho.",
