@@ -1,5 +1,5 @@
 {
-  "css": ".top-bar {\n    font-size: 85%;\n    background-color: #d690a9;\n}\n\n@media (min-width: 992px)\n.col-lg-3 {\n    flex: 0 0 25%;\n    max-width: 25%;\n}\n\n.header__nav {\n    text-align: initial;\n    font-size: var(--font-size-base); \n    line-height: var(--line-height-bas);\n    line-height: var(--line-height-lg);\n    margin-top: 30px;\n    margin-bottom: 10px;\n}\n\n.footer {\n    background: #3b9475;\n}",
+  "css": ".top-bar {\n    font-size: 85%;\n    color: #ffffff;\n    background-color: #d690a9;  \n}\n\n@media (min-width: 992px)\n.col-lg-3 {\n    flex: 0 0 25%;\n    max-width: 25%;\n}\n\n.header__nav {\n    text-align: initial;\n    font-size: var(--font-size-base); \n    line-height: var(--line-height-bas);\n    line-height: var(--line-height-lg);\n    margin-top: 30px;\n    margin-bottom: 10px;\n}\n\n.footer {\n    background: #3b9475;\n}",
   "html_head": "",
   "html_body": ""
 }
