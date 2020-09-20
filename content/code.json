@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": "@media\n.top-bar__countdown {\n    font-size: var(--font-size-base);\n    padding-top: var(--spacer-2);\n    padding-bottom: var(--spacer-2);\n}",
   "html_head": "",
   "html_body": ""
 }
