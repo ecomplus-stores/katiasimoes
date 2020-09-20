@@ -1,5 +1,5 @@
 {
-  "css": "@media\n.top-bar__countdown {\n    font-size: var(--font-size-base);\n    padding-top: var(--spacer-2);\n    padding-bottom: var(--spacer-2);\n}\n\n.header__nav {\n    text-align: initial;\n    font-size: var(--font-size-base); \n    line-height: var(--line-height-bas);\n    line-height: var(--line-height-lg);\n    margin-top: 30px;\n    margin-bottom: 10px;\n}",
+  "css": ".header__nav {\n    text-align: initial;\n    font-size: var(--font-size-base); \n    line-height: var(--line-height-bas);\n    line-height: var(--line-height-lg);\n    margin-top: 30px;\n    margin-bottom: 10px;\n}",
   "html_head": "",
   "html_body": ""
 }
