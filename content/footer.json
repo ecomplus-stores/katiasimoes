@@ -10,20 +10,20 @@
   },
   "links_2": {
     "list_categories": false,
-    "title": "Categorias",
+    "title": "",
     "list": []
   },
   "contacts": {
     "title": "Contatos",
-    "phone_wpp": true,
+    "phone_wpp": false,
     "socials": true,
     "email": true,
     "address": true
   },
   "stamps": [
     {
-      "src": "/img/uploads/ssl-safe.png",
-      "alt": "Secure connection"
+      "src": "/img/uploads/selo-site-protegido-ssl-branco.png",
+      "alt": "Conexão Segura"
     }
   ],
   "payment_methods": {
