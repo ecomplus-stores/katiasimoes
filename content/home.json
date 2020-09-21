@@ -30,7 +30,7 @@
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5f67f4f17430f92180f2cc04",
-      "sort": "news"
+      "sort": "lowest_price"
     },
     {
       "type": "custom-html",
