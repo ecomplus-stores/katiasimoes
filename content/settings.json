@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#3b9475",
   "theme": {
-    "bootswatch": "spacelab",
-    "custom": "clean-gray"
+    "bootswatch": "yeti",
+    "custom": "niche-baby"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logo-horizontal-ks-estudio-criativo_pqna.png",
