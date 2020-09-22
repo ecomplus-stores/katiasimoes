@@ -1,10 +1,10 @@
 {
   "domain": "katiasimoes.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#3b9475",
+  "primary_color": "#d690a9",
   "theme": {
-    "bootswatch": "lumen",
-    "custom": "clean-dark"
+    "bootswatch": "minty",
+    "custom": "clean-white"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logo-horizontal-ks-estudio-criativo_pqna.png",
@@ -15,7 +15,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/camaleoa-icon.png",
   "country_code": "BR",
-  "secondary_color": "#d690a9",
+  "secondary_color": "#3b9475",
   "icon": "/img/uploads/camaleoa-icon.png",
   "store_id": 1159,
   "description": "Desenhos digitais com leveza e carinho.",
