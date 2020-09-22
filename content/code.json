@@ -1,5 +1,5 @@
 {
-  "css": ".info-bar \n{\n    width: 100%;\n    max-width: 100%;\n    margin-left: auto;\n    margin-right: auto;\n    background: #d690a9;\n    color: #fff;\n}\n\n.banner-slider {\n    width: 100%;\n    max-width: 120rem;\n    height: auto;\n    height: calc(100vw*var(--banner-aspect-ratio) - 5px);\n    max-height: calc(120rem*var(--banner-aspect-ratio));\n    margin: 0 auto;\n}",
+  "css": ".top-bar {\n    font-size: 95%;\n    background-color: #d690a9; \n}\n\n.banner-slider {\n    width: 100%;\n    max-width: 120rem;\n    height: auto;\n    height: calc(100vw*var(--banner-aspect-ratio) - 5px);\n    max-height: calc(120rem*var(--banner-aspect-ratio));\n    margin: 0 auto;\n}\n\n.info-bar \n{\n    width: 100%;\n    max-width: 100%;\n    margin-left: auto;\n    margin-right: auto;\n    background: #d690a9;\n    color: #fff;\n}\n\n",
   "html_head": "",
   "html_body": ""
 }
