@@ -1,5 +1,5 @@
 {
-  "css": "\n",
+  "css": ".info-bar \n{\n    width: 100%;\n    max-width: 100%;\n    margin-left: auto;\n    margin-right: auto;\n    background: #d690a9;\n    color: #fff;\n}",
   "html_head": "",
   "html_body": ""
 }
