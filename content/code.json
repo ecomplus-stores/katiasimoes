@@ -1,5 +1,5 @@
 {
-  "css": ".top-bar {\n    font-size: 95%;\n    background-color: #d690a9; \n    color: #fff;\n}\n\n.info-bar \n{\n    background: #d690a9;\n    color: #fff;\n}\n\n",
+  "css": ".top-bar {\n    font-size: 95%;\n    background-color: #d690a9; \n    color: #fff;\n}\n\n.top-bar__nav {\n   color: #fff;\n   \n}\n\n.info-bar \n{\n    background: #d690a9;\n    color: #fff;\n}\n\n",
   "html_head": "",
   "html_body": ""
 }
