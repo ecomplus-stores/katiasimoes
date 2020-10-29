@@ -1,11 +1,7 @@
 {
   "meta_title": "Desenhos Digitais * Katia Simões - Estúdio Criativo",
-  "meta_description": "Desenhos Digitais com leveza e carinho! Faça o pedido 100% online e receba diretamente no seu e-mail. É prático e você ainda pode facilitar o pagamento.",
+  "meta_description": "Desenhos Digitais com leveza e carinho! Faça o pedido 100% online. É prático e você ainda pode facilitar o pagamento.",
   "sections": [
-    {
-      "type": "custom-html",
-      "html": "<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/158ee7aa65ab462caec0b38f2/fba5fa0728628914a8fe2566d.js\");</script>"
-    },
     {
       "type": "banner-slider",
       "autoplay": 9000,
