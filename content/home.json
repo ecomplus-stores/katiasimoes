@@ -40,7 +40,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
       "page": 1,
       "collection_id": "5fcd76d969274c73fce29fe1:collections:Caneca:/caneca",
