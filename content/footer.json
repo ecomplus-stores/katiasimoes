@@ -41,7 +41,7 @@
     "citibank": false,
     "mais": false,
     "amex": true,
-    "itau": true
+    "itau": false
   },
   "credits": "Copyright © Katia Simões – Estúdio Criativo – CNPJ: 15.326.261/0001-73 © Todos direitos reservados"
 }
