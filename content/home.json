@@ -9,16 +9,16 @@
         {
           "start": "2020-09-20T20:06:29.408Z",
           "end": "",
-          "img": "/img/uploads/banner-fofurinha.png",
-          "link": "https://katiasimoes.netlify.app/mascote",
-          "alt": "Mascote Fofurinha e Pacote de Stickers",
-          "mobile_img": "/img/uploads/banner-fofurinha-mobile.png"
+          "img": "/img/uploads/banner-mae-colo-abrigo.png",
+          "link": "https://katiasimoes.com.br/search?term=m%C3%A3e",
+          "alt": "Dia das Mães",
+          "mobile_img": "/img/uploads/banner-mae-mobile.png"
         }
       ]
     },
     {
       "type": "info-bar",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "collection-shelf",
