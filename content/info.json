@@ -1,6 +1,6 @@
 {
   "shipping": {
-    "show": true,
+    "show": false,
     "text": "Frete para todo o Brasil"
   },
   "installments": {
