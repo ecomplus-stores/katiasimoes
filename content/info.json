@@ -1,11 +1,11 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregas para todo o Brasil"
+    "text": "Frete para todo o Brasil"
   },
   "installments": {
     "show": true,
-    "text": "Parcele em 3x sem juros"
+    "text": "3x sem juros"
   },
   "exchange": {
     "show": false,
@@ -13,6 +13,6 @@
   },
   "promo": {
     "show": true,
-    "text": "10% OFF no depósito ou transferência"
+    "text": "10% OFF no PIX"
   }
 }
