@@ -1,12 +1,25 @@
 {
   "title": "Volto Logo",
-  "body": ".",
+  "body": "Até logo :D",
   "meta_title": "Uma pequena pausa - Katia Simões ® Estúdio Criativo",
   "meta_description": "Logo logo eu volto, aguardem.",
   "sections": [
     {
       "type": "custom-html",
       "html": "<div class=\"extra-page\" id=\"volto-logo\" >\n    <section class=\"md-content mb-5 pt-1 pt-sm-2 pt-lg-3\">\n        <div class=\"container\">\n            <p><img src=\"template/public/img/uploads/logo-pqna.png\" alt=\"Logotipo Katia Simões - Estúdio Criativo\"></p>\n            <p>Uma pequena pausa</p>\n            <p> A Loja Virtual está fechada agora :( <br>\nEnquanto trabalho em mudanças importantes aqui no Estúdio Criativo, você pode me acompanhar e até fazer pedidos diretamente comigo no Instagram @katia_simoes \n<br> Volto em agosto com muuuuitas novidades.</p>\n           <p>Até logo :)</p>\n        </div>\n    </section>\n</div>\n\n\n"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "2021-07-06T00:27:21.528Z",
+          "end": "2021-07-06T00:27:21.574Z",
+          "img": "/img/uploads/banner-contatos.jpg",
+          "mobile_img": "/img/uploads/banner-mobile-contatos.jpg",
+          "link": "https://www.instagram.com/katia_simoes/"
+        }
+      ]
     }
   ]
 }
