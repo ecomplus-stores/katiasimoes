@@ -37,6 +37,10 @@
       "shuffle": true,
       "collection_id": "605145cda735d032cbbd16ea:collections:♥  Mascote Persona e Logo Ilustrada ♥:/colecao-mascote-persona-logo-ilustrada",
       "sort": "highest_price"
+    },
+    {
+      "type": "custom-html",
+      "html": "<!-- SnapWidget -->\n<script src=\"https://snapwidget.com/js/snapwidget.js\"></script>\n<iframe src=\"https://snapwidget.com/embed/974309\" class=\"snapwidget-widget\" allowtransparency=\"true\" frameborder=\"0\" scrolling=\"no\" style=\"border:none; overflow:hidden;  width:100%; \"></iframe>"
     }
   ]
 }
