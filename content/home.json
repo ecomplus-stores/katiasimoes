@@ -39,6 +39,13 @@
       "sort": "highest_price"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/insta_katia.png",
+      "link": "https://www.instagram.com/katia_simoes/",
+      "alt": "Siga-nos no Instagram!",
+      "mobile_img": "/img/uploads/insta_katia.png"
+    },
+    {
       "type": "custom-html",
       "html": "<!-- SnapWidget -->\n<script src=\"https://snapwidget.com/js/snapwidget.js\"></script>\n<iframe src=\"https://snapwidget.com/embed/974309\" class=\"snapwidget-widget\" allowtransparency=\"true\" frameborder=\"0\" scrolling=\"no\" style=\"border:none; overflow:hidden;  width:100%; \"></iframe>"
     }
