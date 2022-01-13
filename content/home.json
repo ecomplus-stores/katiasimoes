@@ -29,6 +29,11 @@
       "page": ""
     },
     {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "sales"
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/insta_katia.png",
       "link": "https://www.instagram.com/katia_simoes/",
