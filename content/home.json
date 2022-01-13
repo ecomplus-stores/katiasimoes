@@ -16,6 +16,10 @@
       "full_width": true
     },
     {
+      "type": "custom-content",
+      "markdown": "<br>\n\n### **Aqui tem Fofuras** ❣\n\nProdutos ilustrados para crianças de 0 a 100 anos."
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "views"
